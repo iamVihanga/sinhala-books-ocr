@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #fafaf9;
+    color: #1c1917;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Sinhala script class font */
+  .font-sinhala {
+    font-family: 'Noto Sans Sinhala', 'Plus Jakarta Sans', sans-serif;
+  }
+}
+

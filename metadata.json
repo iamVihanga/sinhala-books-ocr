@@ -1,0 +1,6 @@
+{
+  "name": "Sinhala Text Extractor",
+  "description": "Extract book titles, author names, sub-headings, publisher company, ISBN, and Sinhala text from book cover pages with AI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
